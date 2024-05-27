@@ -1,0 +1,11 @@
+{
+  "name": "git_practice",
+  "version": "1.0.0",
+  "description": "git 연습\r 작성 일자 : 2024.05.11\r 작성자 : dalramjwi",
+  "main": "remote_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
